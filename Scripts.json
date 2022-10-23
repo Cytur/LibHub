@@ -1,5 +1,5 @@
 {
 "scripts": [
-  {"Name": 'Test', "Content" = 'createapp("test")'}
+  {"Name": "Test", "Content" = "createapp('test')"}
 ]
 }
